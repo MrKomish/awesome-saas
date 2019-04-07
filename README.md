@@ -6,8 +6,8 @@ A curated list for awesome Multi-Tenant SaaS (Software as a Service) development
 
 ## Kubernetes
 
-* ["Implementing SaaS on Kubernetes" Presentation](https://events.linuxfoundation.org/wp-content/uploads/2018/02/Implementing-SaaS-on-Kubernetes-Michael-Knapp-Andrew-Gao-Capital-One.pdf) - Multi-Tenancy and Tenant Isolation on Kubernetes.
+* ["Implementing SaaS on Kubernetes" Presentation](https://events.linuxfoundation.org/wp-content/uploads/2018/02/Implementing-SaaS-on-Kubernetes-Michael-Knapp-Andrew-Gao-Capital-One.pdf) - Multi-Tenancy and Tenant Isolation on [Kubernetes](https://kubernetes.io/).
 
 ## Monitoring
 
-* [Cortex](https://github.com/cortexproject/cortex) - A multi-tenant, horizontally scalable Prometheus-as-a-Service.
+* [Cortex](https://github.com/cortexproject/cortex) - A multi-tenant, horizontally scalable [Prometheus](https://prometheus.io/)-as-a-Service.
