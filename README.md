@@ -23,3 +23,9 @@ A curated list for awesome Multi-Tenant SaaS (Software as a Service) development
 ## Monitoring
 
 * [Cortex](https://github.com/cortexproject/cortex) - A multi-tenant, horizontally scalable [Prometheus](https://prometheus.io/)-as-a-Service.
+
+## Videos
+
+* [Multi-Tenant Architecture in 20 minutes](https://www.youtube.com/watch?v=0N4KknY_zdU) - Atlassian's presentation on multi-tenant architectures; what they are, why you would use them, and how Atlassian managed to make it work.
+
+* [Deconstructing SaaS](https://www.youtube.com/watch?v=mwQ5lipGTBI) - Building Multi-Tenant Solutions on AWS, from AWS re:Invent 2018.
