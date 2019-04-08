@@ -8,9 +8,11 @@ A curated list for awesome Multi-Tenant SaaS (Software as a Service) development
 
 * [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io) - Modern Cloud & DevOps technologies landscape.
 
-## Boilerplate
+## Codebase
 
-* [SaaS Boilerplate](https://github.com/async-labs/saas) - SaaS boilerplate app. Stack: React, Material-UI, Next, MobX, Express, Node, Mongoose, MongoDB. Written with TypeScript.
+* [SaaS Boilerplate](https://github.com/async-labs/saas) - SaaS boilerplate app. Stack: TypeScript, React, Material-UI, NextJS, MobX, Express, Node, Mongoose, MongoDB.
+
+* [Laravel Tenancy](https://github.com/hyn/multi-tenant) - The Toolkit For Multi Tenancy In Laravel.
 
 ## Kubernetes
 
