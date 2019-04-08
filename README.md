@@ -2,7 +2,11 @@
 
 A curated list for awesome Multi-Tenant SaaS (Software as a Service) development 🐕‍🔥
 
-* [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io)
+## Knowledge
+
+* [The Twelve-Factor App](https://12factor.net) - A methodology for building SaaS apps.
+
+* [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io) - Modern Cloud & DevOps technologies landscape.
 
 * [SaaS Boilerplate](https://github.com/async-labs/saas) - SaaS boilerplate app. Stack: React, Material-UI, Next, MobX, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 
